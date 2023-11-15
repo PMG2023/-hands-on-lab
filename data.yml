@@ -15,8 +15,8 @@ locations:
         database: GRESAFE
         schema: WORKPROD
       "8":
-        database: GRESAFE
-        schema: WORKTEST
+        database: SNOWFLAKE_SAMPLE_DATA
+        schema: TPCH_SF1
   WORK:
     mappingDefinitions:
       "7":
